@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="bson" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mongo" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Ruby SDK 1.8.7-p253" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bson (v1.1.5, /opt/ruby-enterprise-1.8.7-2010.02/lib/ruby/gems/1.8/gems/bson-1.1.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mongo (v1.1.5, /opt/ruby-enterprise-1.8.7-2010.02/lib/ruby/gems/1.8/gems/mongo-1.1.5)" level="application" />
+  </component>
+</module>
+
